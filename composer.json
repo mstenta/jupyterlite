@@ -1,0 +1,13 @@
+{
+  "name": "drupal/jupyterlite",
+  "description": "Adds a JupyterLite environment to Drupal.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/jupyterlite",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+      {
+          "name": "Michael Stenta",
+          "email": "mike@mstenta.net"
+      }
+  ]
+}

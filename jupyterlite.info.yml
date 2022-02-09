@@ -1,0 +1,4 @@
+name: JupyterLite
+description: Adds a JupyterLite environment to Drupal.
+type: module
+core_version_requirement: ^9
