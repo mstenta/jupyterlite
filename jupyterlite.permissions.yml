@@ -1,0 +1,4 @@
+access jupyterlite:
+  title: 'Access JupyterLite'
+  description: 'Access the JupyterLite environment.'
+  restrict access: true

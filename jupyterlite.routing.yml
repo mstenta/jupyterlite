@@ -1,0 +1,7 @@
+jupyterlite:
+  path: '/jupyterlite'
+  defaults:
+    _title: 'JupyterLite'
+    _controller: '\Drupal\jupyterlite\Controller\JupyterLiteController::index'
+  requirements:
+    _permission: 'access jupyterlite'
